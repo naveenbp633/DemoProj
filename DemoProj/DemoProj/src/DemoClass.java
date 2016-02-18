@@ -8,5 +8,6 @@ public class DemoClass {
 		System.out.println("CS520 Demo...");
 		
 		System.out.println();
+		
 	}
 }
